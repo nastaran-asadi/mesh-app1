@@ -6,7 +6,6 @@ from tempfile import NamedTemporaryFile
 from typing import Literal
 
 import numpy as np
-import open3d as o3d
 
 MeshMethod = Literal["poisson", "ball_pivoting"]
 
