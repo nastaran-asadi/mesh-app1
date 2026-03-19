@@ -1,0 +1,23 @@
+#Help
+
+
+In command section please run:
+
+
+
+cd mesh-app
+
+
+
+python -m venv .venv
+
+
+.venv\Scripts\activate
+
+
+
+pip install -r requirements.txt
+
+
+
+python -m streamlit run app.py
